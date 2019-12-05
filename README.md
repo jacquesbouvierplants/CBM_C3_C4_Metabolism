@@ -1,3 +1,5 @@
+This code is associated with the paper from Blätke and Bräutigam, "Evolution of C4 photosynthesis predicted by constraint-based modelling". eLife, 2019. http://dx.doi.org/10.7554/eLife.49305
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-blaetke/CBM_C3_C4_Metabolism/master)
 
 # Evolution of C4 photosynthesis predicted by constraint-based modelling 
